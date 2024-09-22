@@ -4,13 +4,13 @@ An Android app built with Jetpack Compose and the latest android libraries.You c
 # Things i used to build this app
 
 -Jetpack Compose<br></br>
--Clean Architecture
--MVVM and MVI
--Paging 3
--Retrofit
--Room Database
--Dagger Hilt
--DataStore Preferences
+-Clean Architecture<br></br>
+-MVVM and MVI<br></br>
+-Paging 3<br></br>
+-Retrofit<br></br>
+-Room Database<br></br>
+-Dagger Hilt<br></br>
+-DataStore Preferences<br></br>
 
 
 
