@@ -18,6 +18,20 @@ An Android app built with Jetpack Compose and the latest android libraries.You c
 <img width="716" alt="Screenshot 2023-08-23 at 4 11 00 PM" src="https://github.com/user-attachments/assets/35813aa4-2849-4fa0-8635-23eb35aff316"><br>
 <br><br>
 
+# Things i used to build this app
+
+-Jetpack Compose
+-Clean Architecture
+-MVVM and MVI
+-Paging 3
+-Retrofit
+-Room Database
+-Dagger Hilt
+-DataStore Preferences
+
+
+
+
 
 
 
