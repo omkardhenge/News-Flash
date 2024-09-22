@@ -3,7 +3,7 @@ An Android app built with Jetpack Compose and the latest android libraries.You c
 
 # Things i used to build this app
 
--Jetpack Compose
+-Jetpack Compose<br></br>
 -Clean Architecture
 -MVVM and MVI
 -Paging 3
